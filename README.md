@@ -1,3 +1,3 @@
-#CSST 102
+# CSST 102
 Machine Learning Applications
 
